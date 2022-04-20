@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import RPi.GPIO as GPIO
 import time
 
-
 list = []
 leds = [21, 20, 16, 12, 7, 8, 25, 24]
 dac = [26, 19, 13, 6, 5, 11, 9, 10]
